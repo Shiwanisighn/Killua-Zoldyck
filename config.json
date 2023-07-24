@@ -1,7 +1,7 @@
 {
   "APIs": {
     "zenz": "https://api.zahwazein.xyz",
-    "apikey": "YOURAPIKEY"
+    "apikey": "zenzkey_a0e2376ec00d"
   },
   "options": {
     "autoRead": true,
@@ -10,11 +10,11 @@
     "limitGame": 20
   },
   "exif": {
-    "packname": "Killua Zoldyck",
-    "author": "https://api.zahwazein.xyz"
+    "packname": "GAFDY",
+    "author": "AFIF FEBRIANDY"
   },
   "owner": [
-    "62812XXX"
+    "6285348637889"
   ],
   "timezone": "Asia/Jakarta",
   "footer": "Powered by https://api.zahwazein.xyz"
